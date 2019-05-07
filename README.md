@@ -1,4 +1,4 @@
-# lab-travis-ci
+# lab-ci
 Project with Travis CI
 Example of React app in Travis CI and Circle CI
 
